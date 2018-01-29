@@ -1,7 +1,7 @@
 # websites
 ## code
 |[githubhelp][githubhelp]|[stackoverflow][stackflow]|[鸟哥LINUX][鸟哥]
-|---|---
+|---|---|---
 
 ## blog
 [阿里褚霸][阿里褚霸]
