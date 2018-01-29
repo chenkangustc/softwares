@@ -6,4 +6,4 @@
 	VS
 	IVF
 ____
-[shadowsocks]:shadowsocks.la "fanqiang"
+[shadowsocks]:https://shadowsocks.la "fanqiang"
