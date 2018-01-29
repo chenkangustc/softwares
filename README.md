@@ -1,7 +1,7 @@
 # softwares
 ## 办公工具
 ## 辅助办公
-	[shadowsocks][shadowsocks]
+[shadowsocks][shadowsocks]
 ## 开发工具
 	VS
 	IVF
