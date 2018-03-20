@@ -2,7 +2,7 @@
 ## code
 |[githubhelp][githubhelp]|[stackoverflow][stackflow]|[鸟哥LINUX][鸟哥]
 |---|---|---
-|[lapack-guide][lapack-guide]|[缪雪峰git教程][缪雪峰git教程]
+|[lapack-guide][lapack-guide]|[缪雪峰git教程][缪雪峰git教程]|[cmake文档][cmake文档]
 ## blog
 |[阿里褚霸][阿里褚霸]
 |---
@@ -17,3 +17,4 @@ ______
 [sci-hub]:sci-hub.la
 [lapack-guide]:http://www.netlib.org/lapack/lug/index.html#opennewwindow
 [缪雪峰git教程]:https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013744142037508cf42e51debf49668810645e02887691000
+[cmake文档]:https://cmake.org/cmake/help/v3.3/command/add_executable.html
