@@ -12,6 +12,9 @@
 ## nuclear
 |[relap-3D][relap-3D]
 |---
+## 666
+|[中国经济50人][经济50人论坛]
+|---
 ______
 [githubhelp]:https://help.github.com/articles/error-repository-not-found/
 [stackflow]:https://stackoverflow.com/
@@ -22,3 +25,4 @@ ______
 [缪雪峰git教程]:https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013744142037508cf42e51debf49668810645e02887691000
 [cmake文档]:https://cmake.org/cmake/help/v3.3/command/add_executable.html
 [relap-3D]:https://relap53d.inl.gov/SitePages/Training.aspx
+[经济50人论坛]:http://www.50forum.org.cn/
