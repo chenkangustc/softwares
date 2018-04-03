@@ -13,8 +13,8 @@
 |[relap-3D][relap-3D]
 |---
 ## 666
-|[中国经济50人][经济50人论坛]
-|---
+|[中国经济50人][经济50人论坛]|[专利查询][专利查询]
+|---|---
 ______
 [githubhelp]:https://help.github.com/articles/error-repository-not-found/
 [stackflow]:https://stackoverflow.com/
@@ -26,3 +26,4 @@ ______
 [cmake文档]:https://cmake.org/cmake/help/v3.3/command/add_executable.html
 [relap-3D]:https://relap53d.inl.gov/SitePages/Training.aspx
 [经济50人论坛]:http://www.50forum.org.cn/
+[专利查询]:http://cpquery.sipo.gov.cn/
